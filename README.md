@@ -9,15 +9,19 @@
 
 - 🔭 I'm working in a secret project with React for a Construction Company!
 - 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to a Internship 👀
+- 💞️ I’m looking to an Internship 👀
 - 🥅 2022 Goals: Get a job in a big company
 - ⚡ Fun fact: I love to play videogames, listen to music and play guitar
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-leodlopez.vercel.app/api/spotify)](https://open.spotify.com/user/12156741121)
+
 
 ### Connect with me:
 
 [<img align="left" alt="Leo Lopez | Email" style="fill: blue" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftoutlook.svg" />][outlook]
 [<img align="left" alt="Leo Lopez | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Leo Lopez | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftoutlook.svg" />][discord]
+[<img align="left" alt="Leo Lopez | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />][discord]
 [<img align="left" alt="Leo Lopez | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Leo Lopez | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Leo Lopez | Dragonware" width="25px" src="https://avatars.githubusercontent.com/u/66812392?s=200&v=4" />][dragonware]
@@ -71,5 +75,5 @@
 [instagram]: https://www.instagram.com/leo.lopezl/
 [linkedin]: https://www.linkedin.com/in/leonardo-lopez-360/
 [dragonware]: https://www.facebook.com/DragonWare-110557344026414
-[outlook]: lopez_lopez_daniel@hotmail.com
+[outlook]: mailto:lopez_lopez_daniel@hotmail.com
 [discord]: https://discord.com/users/264267409618239489/
